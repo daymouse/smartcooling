@@ -13,7 +13,7 @@ export function DashboardHeader({
   deviceStatus,
 }: Props) {
   return (
-    <header className="flex flex-wrap items-center justify-between gap-3 px-1 sm:gap-4">\
+    <header className="flex flex-wrap items-center justify-between gap-3 px-1 sm:gap-4">
       <div className="min-w-0 flex-1">
         <h1 className="text-[clamp(1.25rem,4vw,1.875rem)] font-semibold leading-tight tracking-tight">
           Smart Cooling Fan
